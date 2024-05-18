@@ -29,7 +29,7 @@ const Skill = () => {
           <div className="skill-title">Bootstrap</div>
           <div className="skill-bar"></div>
           <div className="bootstrap skill-fill">
-            <div className="skill-percent">70%</div>
+            <div className="skill-percent">65%</div>
           </div>
         </div>
       </div>
@@ -39,7 +39,7 @@ const Skill = () => {
           <div className="skill-title">Tailwind CSS</div>
           <div className="skill-bar"></div>
           <div className="tailwindcss skill-fill">
-            <div className="skill-percent">65%</div>
+            <div className="skill-percent">70%</div>
           </div>
         </div>
       </div>
