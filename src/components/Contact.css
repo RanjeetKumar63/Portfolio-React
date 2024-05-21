@@ -7,6 +7,7 @@ body{
 .hire{
   margin-top: 18vh;
   padding: 20px;
+ 
 }
 
 .container{
@@ -56,29 +57,22 @@ input[type=email],select{
 
 .btn{
   width: 180px;
-  background-color: blue;
+  background-color: orangered;
   color: white;
   padding: 15px 20px;
   margin-bottom:30px;
   border: none;
   cursor: pointer;
-  text-decoration: double;
   border-radius: 5px;
   
   
 }
 
-.btn:hover{
-  background-color: red;
-  color: white;
-}
 
 
 
-.btn:hover{
-  background-color: #45a049;
- 
-}
+
+
 
 
 
@@ -87,12 +81,11 @@ input[type=email],select{
   height: 15%;
   background-color: rgb(7, 2, 71);
   padding: 20px 20px;
-  color: wheat;
+  color: whitesmoke;
   
 }
 
 .ui-defined{
-  
   margin-left: 80px;
   padding: 20px 30px;
   margin-top: 25%;

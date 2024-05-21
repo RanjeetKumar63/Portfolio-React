@@ -34,7 +34,7 @@ const Contact = () => {
           ""
         )}
       </pre>
-      <h1 className="hire">Contact Me!</h1>
+      <h1 className="hire">Contact Me</h1>
       <form className="container" onSubmit={handleSubmit}>
         <div className="header">
           <h2>Registration Form</h2>
