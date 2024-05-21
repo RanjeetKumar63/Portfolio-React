@@ -1,0 +1,106 @@
+body{
+  background-color: #b1b2a9;
+}
+
+
+
+.hire{
+  margin-top: 18vh;
+  padding: 20px;
+}
+
+.container{
+  background-color: #f2f2f2;
+  width: 60%;
+  height: 500px;
+  margin-left: 20%;
+  margin-bottom: 15%;
+  text-align: center;
+  
+}
+
+input[type=text],select{
+  width: 80%;
+  padding:15px;
+  margin: 15px;
+  display:inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=password],select{
+  width: 80%;
+  padding:12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=email],select{
+  width: 80%;
+  padding:12px 20px;
+  margin: 10px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.btm{
+  margin: 50px;
+  
+}
+
+.btn{
+  width: 180px;
+  background-color: blue;
+  color: white;
+  padding: 15px 20px;
+  margin-bottom:30px;
+  border: none;
+  cursor: pointer;
+  text-decoration: double;
+  border-radius: 5px;
+  
+  
+}
+
+.btn:hover{
+  background-color: red;
+  color: white;
+}
+
+
+
+.btn:hover{
+  background-color: #45a049;
+ 
+}
+
+
+
+.header{
+  width: 100%;
+  height: 15%;
+  background-color: rgb(7, 2, 71);
+  padding: 20px 20px;
+  color: wheat;
+  
+}
+
+.ui-defined{
+  
+  margin-left: 80px;
+  padding: 20px 30px;
+  margin-top: 25%;
+  color: green;
+  text-align: center;
+  font-family: sans-serif;
+  
+
+}
+
+
