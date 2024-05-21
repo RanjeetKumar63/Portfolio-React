@@ -64,8 +64,8 @@ input[type=email],select{
   border: none;
   cursor: pointer;
   border-radius: 5px;
-  
-  
+  font-size: larger;
+  font-family: sans-serif;
 }
 
 
@@ -92,8 +92,6 @@ input[type=email],select{
   color: green;
   text-align: center;
   font-family: sans-serif;
-  
-
 }
 
 
