@@ -63,12 +63,12 @@ button{
   margin: 10px;
   height: 45px;
   font-size: medium;
-  font-family: fantasy, sans-serif;
-  font-weight: 700;
+  font-family: sans-serif;
+  font-weight: 800;
   border-radius: 30px;
-background-color:#f2f2f2;
+background-color:#34ff3f;
   cursor: pointer;
-  color: white;
+  color: black;
 }
 
 button a{
@@ -78,7 +78,7 @@ button a{
 
 button:hover{
   display: block;
-  filter: drop-shadow(0 0 10px #dddfed);
+  
   
 }
 

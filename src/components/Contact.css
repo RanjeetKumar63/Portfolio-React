@@ -50,22 +50,23 @@ input[type=email],select{
   box-sizing: border-box;
 }
 
-.btm{
-  margin: 50px;
-  
-}
+
 
 .btn{
-  width: 180px;
+  
   background-color: orangered;
   color: white;
-  padding: 15px 20px;
-  margin-bottom:30px;
+  
   border: none;
   cursor: pointer;
   border-radius: 5px;
   font-size: larger;
   font-family: sans-serif;
+  width: 150px;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  height: 43px;
 }
 
 
