@@ -24,8 +24,8 @@ const Contact = () => {
     }
   }
   return (
-    <div className="hdr">
-      <pre className="pr">
+    <div>
+      <pre>
         {flag ? (
           <h2 className="ui-defined">
             Hello {inputData.name},You've Registered Successfull 💐💐

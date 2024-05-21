@@ -56,7 +56,6 @@ input[type=email],select{
   
   background-color: orangered;
   color: white;
-  
   border: none;
   cursor: pointer;
   border-radius: 5px;
@@ -87,12 +86,22 @@ input[type=email],select{
 }
 
 .ui-defined{
-  margin-left: 80px;
-  padding: 20px 30px;
-  margin-top: 25%;
-  color: green;
+  color: greenyellow;
+  justify-content: center;
+  align-items: center;
   text-align: center;
-  font-family: sans-serif;
+  margin: auto;
+  height: 4px;
+  text-wrap: wrap;
+  
 }
+
+/* @media only screen and(max-width:530px) {
+  .ui-defined{
+    text-wrap: unsets;
+    padding: 35px;
+    
+  }
+} */
 
 
