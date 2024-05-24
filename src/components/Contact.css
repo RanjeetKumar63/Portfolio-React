@@ -1,5 +1,5 @@
 body{
-  background-color: #b1b2a9;
+  background-color: black;
 }
 
 
@@ -12,10 +12,11 @@ body{
 
 .container{
   background-color: #f2f2f2;
-  width: 60%;
+  width: 70%;
+  height: 40%;
   height: 500px;
-  margin-left: 20%;
-  margin-bottom: 15%;
+  margin-left: 15%;
+  margin-bottom: 20%;
   text-align: center;
   
 }
@@ -54,18 +55,17 @@ input[type=email],select{
 
 .btn{
   
-  background-color: orangered;
+  background-color: darkgreen;
   color: white;
   border: none;
   cursor: pointer;
-  border-radius: 5px;
+  border-radius: 20px;
   font-size: larger;
   font-family: sans-serif;
-  width: 150px;
+  width: 140px;
   justify-content: center;
   align-items: center;
-  margin: auto;
-  height: 43px;
+  margin-top: 50px;
 }
 
 
@@ -104,4 +104,17 @@ input[type=email],select{
   }
 } */
 
+@media only screen and(min-width:530px) {
+  .container{
+    width: 100%;
+    background: red;
+  }
+  
+}
 
+@media only screen and(max-width:60px) {
+  .container{
+    width: 90%;
+  }
+  
+}

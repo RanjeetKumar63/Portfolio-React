@@ -7,7 +7,7 @@ function App() {
         <img src={require("./portfolio.jpg")} alt="Our Image" />
       </div>
       <h3>Ranjeet Kumar</h3>
-      <p>Frontend Developer</p>
+      <p className="pr">Frontend Developer</p>
       <img src="portfolio.jpg" alt="" />
 
       <button>

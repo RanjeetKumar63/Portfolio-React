@@ -5,16 +5,20 @@
 }
 
 body{
-  background: linear-gradient(to right, #222, black 100%);
+  background-color: red ;
 }
 
 .App{
-  color: white;
+  color: black;
   align-items: center;
   justify-content: center;
   display:grid;
   margin-top: 200px;
 
+}
+.pr{
+  padding: 2px 22px 0 10px;
+  color: white;
 }
 
 .logo{
