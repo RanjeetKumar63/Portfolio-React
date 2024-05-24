@@ -57,15 +57,17 @@ input[type=email],select{
   
   background-color: darkgreen;
   color: white;
-  border: none;
+  
   cursor: pointer;
   border-radius: 20px;
   font-size: larger;
   font-family: sans-serif;
   width: 140px;
+ 
   justify-content: center;
   align-items: center;
   margin-top: 50px;
+  
 }
 
 

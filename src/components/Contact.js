@@ -28,7 +28,7 @@ const Contact = () => {
       <pre>
         {flag ? (
           <h2 className="ui-defined">
-            Hello {inputData.name},You've Registered Successfull 💐💐
+            Hello {inputData.name},You've Registered Successfully 💐💐
           </h2>
         ) : (
           ""
