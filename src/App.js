@@ -4,11 +4,11 @@ function App() {
   return (
     <div className="App">
       <div className="logo">
-        <img src={require("./portfolio.jpg")} alt="Our Image" />
+        <img src={require("./profile-pic.png")} alt="Our Image" />
       </div>
       <h3>Ranjeet Kumar</h3>
       <p className="pr">Frontend Developer</p>
-      <img src="portfolio.jpg" alt="" />
+      <img src="profile-pic.png" alt="" />
 
       <button>
         <a href={require("./Ranjeet.pdf")} alt="pdf">
