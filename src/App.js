@@ -11,7 +11,7 @@ function App() {
       <img src="profile-pic.png" alt="" />
 
       <button>
-        <a href={require("./RanjeetYadav@.pdf")} alt="pdf">
+        <a href={require("./resume.pdf")} alt="pdf">
           Download CV
         </a>
       </button>
